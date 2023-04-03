@@ -8,7 +8,6 @@
 
 #define IO_USERNAME  "UTM19010087"
 #define IO_KEY "aio_Kmvb67Hy41xvWLyPpq7f0flkscJj"
-
 int pinDHT = D1;
 int err;
 
